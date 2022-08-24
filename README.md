@@ -28,7 +28,7 @@ Sou formado em Letras e Técnico em ADM mas minha paixão mesmo é o mundo vasto
 
 # Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/username=guigaspaco&repo=devweekgitguigas.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guigaspaco&repo=devweekgitguigas.github.io)](https://github.com/guigaspaco/github-readme-stats)
 
 # Contatos
 
